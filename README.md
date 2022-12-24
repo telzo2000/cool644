@@ -18,3 +18,9 @@ cool640 is written here.https://github.com/telzo2000/cool640
 # Build guide 
 
 https://github.com/telzo2000/cool644/blob/main/buildguide_for_cool644.md
+
+<br>
+
+# Sales site
+
+https://booth.pm/ja/items/3729914

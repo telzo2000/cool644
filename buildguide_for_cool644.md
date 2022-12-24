@@ -301,7 +301,10 @@ The same cover plate as cool640 can be used.
 <br>
 カバープレートはcool640と同じものが使えます。
 <br>
-
+And you can also use the cover plate dedicated to cool644.
+<br>
+そして、cool644専用のカバープレートも使えます。
+<br><br>
 
 Prepare a cover plate, M2 spacer 8mm（x４）, and M2 screw 4mm（x８）.
 <br>
@@ -382,5 +385,6 @@ Have a fun selfmade keyboard life!
 <br>
 楽しい自作キーボード生活を!
 
-![](img/img0007.jpg
+
+![](img/img00001.jpg
 )

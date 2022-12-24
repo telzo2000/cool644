@@ -13,3 +13,8 @@ cool644 is an evolution of cool640.
 The cool644 can use rotary encoders and trackballs.
 <br>
 cool640 is written here.https://github.com/telzo2000/cool640
+
+
+# Build guide 
+
+https://github.com/telzo2000/cool644/blob/main/buildguide_for_cool644.md

@@ -33,7 +33,7 @@ In addition, you will need a TRRS cable, USB cable, keycaps, etc.
 ## Firmware
 
 ###  QMK_FIRMWARE
-[Here](https://github.com/telzo2000/cool536/tree/main/firmware)
+[Here](https://github.com/telzo2000/cool644/tree/main/firmware)
 
 <br>
 [remap](https://remap-keys.app/)
@@ -44,12 +44,12 @@ In addition, you will need a TRRS cable, USB cable, keycaps, etc.
 
 ### 1 Parts check
 
-The cool536 is a PCB that uses both the front and back sides for left and right PCBs.
+The cool644 is a PCB that uses both the front and back sides for left and right PCBs.
 <br>
 The part where the corner is cut diagonally will be the outside of the left and right.
 <br>
 <br>
-cool536は左右のPCBに対して、表裏両面を使用するPCBです。
+cool644は左右のPCBに対して、表裏両面を使用するPCBです。
 <br>
 角が斜めにカットされている箇所が、左右の外側になります。
 <br>
@@ -119,9 +119,9 @@ Solder the switch sockets on the back side.
 <br>
 裏面にスイッチソケットのハンダ付けをします。
 <br>
-cool536 is compatible with both choc and cherry MX switches.
+cool644 is compatible with both choc and cherry MX switches.
 <br>
-cool536はchocスイッチとcherryMXスイッチの両方に対応しています。
+cool644はchocスイッチとcherryMXスイッチの両方に対応しています。
 <br>
 Both can be installed.
 <br>
@@ -187,9 +187,9 @@ TRRSジャックは左右１箇所ずつ、表面から差し込み、裏面か�
 
 ### 5　Pro micro 
 
-cool536 requires pro micro on each side.
+cool644 requires pro micro on each side.
 <br>
-cool536は左右それぞれにpro microが必要となります。
+cool644は左右それぞれにpro microが必要となります。
 <br>
 
 Use the conthrough to fix the pro micro with the side with the parts facing down.
@@ -223,7 +223,7 @@ Install a switch or measure continuity with tweezers, etc.
 <br>
 
 ### QMK_FIRMWARE
-[Here](https://github.com/telzo2000/cool536/tree/main/firmware)
+[Here](https://github.com/telzo2000/cool644/tree/main/firmware)
 
 <br>
 [remap](https://remap-keys.app/)
@@ -247,20 +247,20 @@ If you like, attach a rubber cushion to the back and you're done.
 
 ### Option 1 Installing a rotary encoder
 
-cool536 can be equipped with 1 to 2 rotary encoders on the left and right, for a total of 4 rotary encoders.
+cool644 can be equipped with 1 to 2 rotary encoders on the left and right, for a total of 4 rotary encoders.
 <br>
-cool536は、左右に１〜２個、合計４個のロータリーエンコーダーを取り付けることができます。
+cool644は、左右に１〜２個、合計４個のロータリーエンコーダーを取り付けることができます。
 <br><br>
 
 ### Option 2 Mounting the OLED display
 
-The left side of the cool536 can be fitted with an OLED display.
+The left side of the cool644 can be fitted with an OLED display.
 <br>
-In that case, the rotary encoder cannot be attached to the left side of the cool536.
+In that case, the rotary encoder cannot be attached to the left side of the cool644.
 <br>
-cool536の左側には、OLEDディスプレイを取り付けることができます。
+cool644の左側には、OLEDディスプレイを取り付けることができます。
 <br>
-その場合、cool536の左側には、ロータリーエンコーダーを取り付けることができません。
+その場合、cool644の左側には、ロータリーエンコーダーを取り付けることができません。
 <br>
 <br>
 
@@ -297,9 +297,15 @@ build1の1~6の後、次の工程をしてください。
 
 ### 1 Installation of cover plate
 
+The same cover plate as cool640 can be used.
+<br>
+カバープレートはcool640と同じものが使えます。
+<br>
+
+
 Prepare a cover plate, M2 spacer 8mm（x４）, and M2 screw 4mm（x８）.
 <br>
-カバープレート、M2スペーサー6mm（４個）、M2ネジ3mm（８本）を用意します。
+カバープレート、M2スペーサー8mm（４個）、M2ネジ3mm（８本）を用意します。
 <br>
 Screw the spacer to the cover plate in the same orientation.
 <br>

@@ -10,7 +10,7 @@
 #define PRODUCT_ID   0x0644
 #define DEVICE_VER   0x0001
 #define MANUFACTURER telzo2000
-#define PRODUCT      cool640
+#define PRODUCT      cool644
 
 /* key matrix size */
 #define MATRIX_ROWS 10

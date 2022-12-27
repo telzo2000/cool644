@@ -227,7 +227,12 @@ Install a switch or measure continuity with tweezers, etc.
 
 <br>
 [remap](https://remap-keys.app/)
+
 <br>
+
+remapの画面
+![](img/img00002.png)
+
 <br>
 
 ### 7 Installation of key switch

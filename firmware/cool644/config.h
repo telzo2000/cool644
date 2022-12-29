@@ -13,7 +13,7 @@
 #define PRODUCT      cool644
 
 /* key matrix size */
-#define MATRIX_ROWS 10
+#define MATRIX_ROWS 12
 #define MATRIX_COLS 5
 
 /*
@@ -26,9 +26,9 @@
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
  */
-#define MATRIX_ROW_PINS { B5, B4, B1, F7, F4 }
+#define MATRIX_ROW_PINS { B5, B4, B1, F7, F4, D0 }
 #define MATRIX_COL_PINS { B2, B6, B3, F6, F5 }
-#define MATRIX_ROW_PINS_RIGHT { B5, B4, B1, F7, F4}
+#define MATRIX_ROW_PINS_RIGHT { B5, B4, B1, F7, F4, D0 }
 #define MATRIX_COL_PINS_RIGHT { B2, B6, B3, F6, F5 }
 #define UNUSED_PINS
 
@@ -42,6 +42,11 @@
 #define MASTER_LEFT
 #define SOFT_SERIAL_PIN D2
 //#define USE_I2C
+
+#define ENCODERS_PAD_A {D4,D7 }
+#define ENCODERS_PAD_B {C6,E6 }
+#define ENCODERS_PAD_A_RIGHT {D7,D4 }
+#define ENCODERS_PAD_B_RIGHT {E6,C6}
 
 
 //#define LED_NUM_LOCK_PIN B0

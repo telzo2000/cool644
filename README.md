@@ -14,7 +14,7 @@ The cool644 can use rotary encoders and trackballs.
 <br>
 cool640 is written here.https://github.com/telzo2000/cool640
 
-# Historu
+# History
 
 ver.1.21 Compatible with AZ1UBALL
 <br>

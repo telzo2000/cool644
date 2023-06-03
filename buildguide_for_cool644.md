@@ -16,7 +16,7 @@
 |5B|M2screw<br>M2ネジ|8|6mm<br>chocスッチ使用時SwitchPlateで使用|↑|↑|
 |6A|M2spacer<br>M2スペーサー|16|3mmメス-メス<br>MXスイッチ使用時|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10/)<br>[遊舎工房](https://yushakobo.jp)|20本で800円程度|
 |6B|M2spacer<br>M2スペーサー|8|3mmメス-メス<br>chocスイッチ使用時|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10/)<br>[遊舎工房](https://yushakobo.jp)|20本で800円程度|
-|7|M2spacer<br>M2スペーサー|4〜8|8mmメス-メス<br>CoverPlateで使用|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10/)<br>[遊舎工房](https://yushakobo.jp)|20本で800円程度|
+|7|M2spacer<br>M2スペーサー|4〜8|6mmまたは8mmメス-メス<br>CoverPlateで使用|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10/)<br>[遊舎工房](https://yushakobo.jp)|20本で800円程度|
 |8|pro micro|2|ピンヘッダも別途購入|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|価格変動中|
 |9A|Swith socket<br>スイッチソケット|40|cherry MX互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
 |9B|Swith socket<br>スイッチソケット|40|choc互換|[遊舎工房](https://yushakobo.jp)<br>[Talp Keyboard](https://talpkeyboard.net)<br>[Daily Craft Keyboard](https://shop.dailycraft.jp)等|10個で165円程度|
@@ -311,9 +311,9 @@ And you can also use the cover plate dedicated to cool644.
 そして、cool644専用のカバープレートも使えます。
 <br><br>
 
-Prepare a cover plate, M2 spacer 8mm（x４）, and M2 screw 4mm（x８）.
+Prepare a cover plate, M2 spacer 6or8mm（x４）, and M2 screw 4mm（x８）.
 <br>
-カバープレート、M2スペーサー8mm（４個）、M2ネジ3mm（８本）を用意します。
+カバープレート、M2スペーサー6または8mm（４個）、M2ネジ3mm（８本）を用意します。
 <br>
 Screw the spacer to the cover plate in the same orientation.
 <br>

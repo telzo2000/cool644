@@ -1,0 +1,10 @@
+#pragma once
+#define PIMORONI_TRACKBALL_SCALE 20
+
+#define MASTER_RIGHT
+#define POINTING_DEVICE_ROTATION_180
+
+#define VIAL_KEYBOARD_UID {0xB8, 0x0A, 0xCE, 0x6D, 0x56, 0x3D, 0xCF, 0x37}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 2 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 2 }
+

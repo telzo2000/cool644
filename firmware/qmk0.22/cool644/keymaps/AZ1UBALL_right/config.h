@@ -1,0 +1,9 @@
+#pragma once
+#define PIMORONI_TRACKBALL_SCALE 20
+
+#define MASTER_RIGHT
+#define POINTING_DEVICE_ROTATION_180
+
+
+
+

@@ -225,6 +225,11 @@ Install a switch or measure continuity with tweezers, etc.
 ### QMK_FIRMWARE
 [Here](https://github.com/telzo2000/cool644/tree/main/firmware)
 
+
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
 <br>
 [remap](https://remap-keys.app/)
 

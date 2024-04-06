@@ -8,10 +8,10 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     [0] = LAYOUT_ortho_4x10(
         KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,     KC_NO,    KC_NO,    
         KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,     KC_NO,    KC_NO,    
-        KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,  KC_NO,  KC_NO, 
+        KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,     KC_NO,     KC_NO, 
         KC_NO, KC_NO, KC_NO, KC_NO, LT(1,KC_NO),LT(2,KC_NO),KC_NO,  KC_NO,  KC_NO, KC_NO,
         KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO,
-                 KC_1,    KC_2,    KC_3,    KC_4,               KC_5,          KC_6,     KC_7,     KC_8
+        KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO
     ),
     [1] = LAYOUT_ortho_4x10(
        KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,     KC_NO,    KC_NO,    
@@ -19,7 +19,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,  KC_NO,  KC_NO, 
         KC_NO, KC_NO, KC_NO, KC_NO, LT(1,KC_NO),LT(2,KC_NO),KC_NO,  KC_NO,  KC_NO, KC_NO,
         KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO,
-                 KC_1,    KC_2,    KC_3,    KC_4,               KC_5,          KC_6,     KC_7,     KC_8
+        KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO
     ),
     [2] = LAYOUT_ortho_4x10(
        KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,     KC_NO,    KC_NO,    
@@ -27,6 +27,6 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_NO,    KC_NO,    KC_NO,    KC_NO,    KC_NO,               KC_NO,          KC_NO,     KC_NO,  KC_NO,  KC_NO, 
         KC_NO, KC_NO, KC_NO, KC_NO, LT(1,KC_NO),LT(2,KC_NO),KC_NO,  KC_NO,  KC_NO, KC_NO,
         KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO,
-                 KC_1,    KC_2,    KC_3,    KC_4,               KC_5,          KC_6,     KC_7,     KC_8
+        KC_NO,   KC_NO,   KC_NO,              KC_NO,         KC_NO,    KC_NO,    KC_NO,   KC_NO
     )
 };

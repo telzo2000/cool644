@@ -8,8 +8,8 @@ BOOTLOADER = caterina
 #   change yes to no to disable
 
 BOOTMAGIC_ENABLE = yes     # Virtual DIP switch configuration
-MOUSEKEY_ENABLE = no       # Mouse keys
-EXTRAKEY_ENABLE = no       # Audio control and System control
+MOUSEKEY_ENABLE = yes       # Mouse keys
+EXTRAKEY_ENABLE = yes       # Audio control and System control
 CONSOLE_ENABLE = no         # Console for debug
 COMMAND_ENABLE = no         # Commands for debug and configuration
 # Do not enable SLEEP_LED_ENABLE. it uses the same timer as BACKLIGHT_ENABLE
@@ -24,15 +24,7 @@ SPLIT_KEYBOARD = yes
 ENCODER_ENABLE = yes
 POINTING_DEVICE_ENABLE = yes
 POINTING_DEVICE_DRIVER = pimoroni_trackball
-OLED_ENABLE = no
+OLED_ENABLE = yes
 
 
-SPACE_CADET_ENABLE = no
-GRAVE_ESC_ENABLE = no
-MAGIC_ENABLE = no
-MUSIC_ENABLE = no
-
-TAP_DANCE_ENABLE = no
-COMBO_ENABLE = no
-KEY_OVERRIDE_ENABLE = no
 
